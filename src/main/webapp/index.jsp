@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Boxfuse Sample App: success!</title>
+    <title>Test Sample App: success!</title>
 </head>
 <body style="text-align: center">
 <h1>Congratulation to everyone !!</h1>
@@ -8,7 +8,7 @@
 <img src="rrr.jpg">
 
 
-<h2>You successfully deployed code</h2>
+<h2>You have successfully deployed code</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
